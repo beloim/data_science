@@ -1,0 +1,10 @@
+Cor	Valor
+Vermelh	1
+Laranja	2
+Amarelo	3
+Verde	4
+Azul	5
+Purpura	6
+Cinza	7
+Preto	8
+Branco	9
